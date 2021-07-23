@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**VarunK1505/VarunK1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Web development |  Machine Learning  |  Tensor Flow
 - 🌱 I’m currently learning Computer Science with spec in AI and ML at Vellore Institute of Technology Chennai
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linked.in handle :https://www.linkedin.com/in/varun-kamath-b29873198/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
