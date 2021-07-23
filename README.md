@@ -4,10 +4,10 @@
 
 
 - 🔭 I’m currently working on Web development |  Machine Learning  |  Tensor Flow
+
 - 🌱 I’m currently learning Computer Science with spec in AI and ML at Vellore Institute of Technology Chennai
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Linked.in handle :https://www.linkedin.com/in/varun-kamath-b29873198/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+- 📫 How to reach me: 
+- Linked.in handle :https://www.linkedin.com/in/varun-kamath-b29873198/
+- Instagram: https://www.instagram.com/varunkamath15/
+
