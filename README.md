@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-
-
-- 🔭 I’m currently working on Web development |  Machine Learning  |  Tensor Flow
-
 - 🌱 I’m currently learning Computer Science with spec in AI and ML at Vellore Institute of Technology Chennai
 - 
 - 📫 How to reach me: 
